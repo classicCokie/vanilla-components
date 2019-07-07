@@ -2,5 +2,5 @@
 
 ## Patterns over Frameworks
 
-### An Attempt to write React-Like cross browser compatible compoenents in Vanilla Js
+### An Attempt to write React-Like cross browser compatible components in Vanilla Js
 
